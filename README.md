@@ -8,9 +8,9 @@ Speech activity detection (SAD) is a part of many speech processing applications
 the proposed multi-level adaptive SAD on the evaluation set of Fearless Steps 2019 challenge corpus.
 
 ## Usage
-This code is executed in Matlab 2017b with Voicebox.
-SADMain.m is the main code
-SpeechActivityDetection.m is the primary function for Speech Activity Detection
+- This code is executed in Matlab 2017b with Voicebox.
+- SADMain.m is the main code
+- SpeechActivityDetection.m is the primary function for Speech Activity Detection
 
 
 # Reference
